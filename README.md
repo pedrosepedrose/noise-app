@@ -4,9 +4,9 @@ An ultra-light noise generator for your menu bar. No frills.
 
 Noise sits in your menu bar with six colors, a volume slider, a timer and a bell. Click a color and it plays. There's nothing to set up, no account and no library of soundscapes to scroll through. The sound is made live on your Mac, so it never loops and it needs no internet connection.
 
-**[Download for Mac](https://github.com/pedrosepedrose/noise-app/releases/latest/download/Noise-mac.zip)** · macOS 13 or later · Apple Silicon and Intel · 0.9 MB
+**[Download for Mac](https://github.com/pedrosepedrose/noise-app/releases/latest/download/Noise-mac.zip)** · macOS 13 or later · Apple Silicon and Intel · 1.1 MB
 
-Version 1.0. So far it has only been run on macOS 27 on Apple Silicon. If it doesn't open on your Mac, please let us know (see Feedback). More: [tools.doralicedoralice.com/noise](https://tools.doralicedoralice.com/noise)
+Version 1.1: dark mode, an Appearance setting, and quieter while a mic is on. So far it has only been run on macOS 27 on Apple Silicon. If it doesn't open on your Mac, please let us know (see Feedback). More: [tools.doralicedoralice.com/noise](https://tools.doralicedoralice.com/noise)
 
 ## Installing
 
@@ -23,10 +23,12 @@ Steps 2 and 3 are only needed once, because this build isn't notarized by Apple.
 - Adjust: ten band sliders and Width, to shape your own.
 - Output: send the noise to one speaker while the rest of the Mac's sound stays where it is.
 - Keys for everything in the menu, and ⌃⌥⌘Space to play or pause from any app.
+- Light or Dark, following the Mac or set under App.
+- Quieter while another app uses a microphone.
 
 ## Privacy
 
-Noise makes its sound on your Mac and never connects to the internet. There's no account, no analytics or tracking, and nothing it does is sent to Doralice. It only plays sound and never uses the microphone. Your settings are saved on your Mac and nowhere else.
+Noise makes its sound on your Mac and never connects to the internet. There's no account, no analytics or tracking, and nothing it does is sent to Doralice. It only plays sound and never uses the microphone; to turn itself down while another app uses one, it only checks whether a mic is in use. Your settings are saved on your Mac and nowhere else.
 
 ## Feedback
 
