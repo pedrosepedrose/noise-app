@@ -6,7 +6,7 @@ Noise sits in your menu bar with six colors, a volume slider, a timer and a bell
 
 **[Download for Mac](https://github.com/pedrosepedrose/noise-app/releases/latest/download/Noise-mac.zip)** · macOS 13 or later · Apple Silicon and Intel · 0.9 MB
 
-Version 1.0. So far it has only been run on macOS 27 on Apple Silicon. If it doesn't open on your Mac, please say so in an issue here.
+Version 1.0. So far it has only been run on macOS 27 on Apple Silicon. If it doesn't open on your Mac, please let us know (see Feedback). More: [tools.doralicedoralice.com/noise](https://tools.doralicedoralice.com/noise)
 
 ## Installing
 
@@ -30,8 +30,8 @@ Noise makes its sound on your Mac and never connects to the internet. There's no
 
 ## Feedback
 
-Open an issue here: what you were doing, what happened, your Mac and its macOS version.
+Email [support@doralicedoralice.com](mailto:support@doralicedoralice.com?subject=Noise%20feedback) with what you were doing, what happened, and your Mac and macOS version. If you use GitHub, you can open an issue here instead.
 
 ---
 
-Made by Pedro at [Doralice](https://doralicedoralice.com). More tools: [tools.doralicedoralice.com](https://tools.doralicedoralice.com). This repository hosts releases only.
+Made by Pedro at [Doralice](https://doralicedoralice.com). This repository hosts releases only.
